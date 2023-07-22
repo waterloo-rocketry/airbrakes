@@ -1,7 +1,7 @@
 # Airbrakes
 2024 Airbrake simulations and control software
 
-A general overview of the airbrakes project is available [here](https://docs.google.com/document/d/1YcDCSJgKn2jCIta7riP-Psa7VsopmuFkxzin-53qkzM/edit)
+A general overview of the airbrakes project is available [here](https://docs.google.com/document/d/1g8E0XRwUqFtajf2PTMxZg48wKU361QyJlcGpgoTy7NM/edit)
 
 Detailed information about the control system is available [here](https://docs.google.com/document/d/1ZOwV0JtsS2lfDAzhlLoypUQYCHBVaG5JhUI0HWpyd4c/edit)
 
